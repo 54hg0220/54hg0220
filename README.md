@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **guan.huang@utas.edu.au**
 
-- ⚡ Fun fact **add me on League of Legends**
+- ⚡ I love **League of Legends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
