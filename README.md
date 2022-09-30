@@ -4,7 +4,6 @@
 - ⌨️ TypeScript / JavaScript / Python. / Node.js / Next.js / React / Vue / PyTorch.
 - 📫 Email me at: [guan.huang@utas.edu.au](mailto:guan.huang@utas.edu.au)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=54hg0220&label=Profile%20views&color=0e75b6&style=flat" alt="54hg0220" /> </p>
 
