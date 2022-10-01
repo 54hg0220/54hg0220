@@ -1,13 +1,12 @@
 ## Hi, I'm Guan 👋
 
 - 🎓 **PhD Student** at [University of Tasmania](https://www.utas.edu.au/), 05/2022 - Present. AI-based early detection of dementia.
+
 - 📫 Email me at: [guan.huang@utas.edu.au](mailto:guan.huang@utas.edu.au)
 
 - 🔭 I’m currently working on [TAS Test Project](https://www.utas.edu.au/wicking/newsletters/mar21/tastest/_nocache)
 
 - 🌱 I’m currently learning **JAVA**
-
-- 📫 How to reach me **guan.huang@utas.edu.au**
 
 - ⚡ I love **League of Legends**
 
