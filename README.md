@@ -17,9 +17,9 @@
 <a href="https://discord.gg/https://discord.gg/GHXVrwrK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GHXVrwrK" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54hg0220&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54hg022&theme=default)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=54hg022&show_icons=true&locale=en" alt="54hg0220" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=54hg0220&show_icons=true&locale=en" alt="54hg0220" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=54hg0220&" alt="54hg0220" /></p>
 
